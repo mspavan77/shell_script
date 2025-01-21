@@ -1,6 +1,6 @@
 #!/bin/bash
 
-my_password="Pavankumarms77@"
+my_password="Iamgoodguy777"
 
 
 echo "Enter the password"
